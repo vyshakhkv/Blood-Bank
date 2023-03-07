@@ -1,0 +1,92 @@
+body{
+    margin: 0px;
+}
+   
+
+
+.total{
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(2381638.png);
+
+   
+}
+   
+    
+    
+
+
+.welcome{
+
+    /* display: inline-block; */
+    margin: 250px 150px;
+    color: aliceblue;
+   
+}
+
+#para{
+   
+    margin-left: 2px;
+    align-items: center;
+}
+
+.form{
+    /* justify-content: right; */
+    display: inline-block;
+    margin: 250px;
+    color: aliceblue;
+    
+}
+
+.total{
+    display: flex;
+}
+
+.head1{
+    /* margin: 200px; */
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.head{
+    margin-left: 50%;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#email{
+    width: 550px;
+    height: 40px;
+    margin-bottom: 25px;
+    
+
+}
+
+#pass{
+ 
+    width: 550px;
+    height: 40px;
+    margin-bottom: 25px;
+}
+
+button{
+    margin-top: 25px;
+    background-color: rgb(215, 105, 9);
+    color: aliceblue;
+    width: 100px;
+    height: 30px;
+    margin-bottom: 25px;
+    border: none;
+}
+
+#lost{
+    
+    color: aliceblue;
+}
+
+.last{
+    color: aliceblue;
+}
+.last a{
+    color: aliceblue;
+}
+

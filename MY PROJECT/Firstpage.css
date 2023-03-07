@@ -1,0 +1,144 @@
+body{
+    margin: 0px;
+
+}
+
+.total{
+    /* background:url("2381638.png");
+    
+    background-size: cover; */
+    background-color: rgb(167, 167, 167);
+    margin: 0px;
+    height: 100vh;
+    
+    position:static;
+    top: 100px;
+}
+.navbar{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(80, 149, 174);
+    padding: 0px 10px;
+    margin: 0;
+    position: sticky;
+    top: 0px;
+   
+}
+
+.navbar logo{
+    display: flex;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.marquee{
+    
+    background-color: aliceblue;
+    color: rgb(0, 21, 252);
+    position: sticky;
+    top: 100px;
+    padding: 1px;
+
+}
+
+.links li{
+    display: inline;
+    font-size: large;
+    margin: 10px;
+    color: rgb(235, 22, 22);
+}
+
+
+
+.main{
+    padding: 40px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+
+}
+.main h2{
+    color: aliceblue;
+
+
+}
+
+.main a{
+    text-decoration: none;
+}
+
+.hero h2{
+    margin-left: 100px;
+}
+
+.main img{
+    transition: 0.2s;
+
+}
+
+.main img:hover{
+    transform: scale(1.2); 
+    
+}
+
+.caption{
+    display: inline;
+    display: flex;
+    align-items: center;
+    
+}
+
+
+/* #look{
+    transition: 1s;
+
+} */
+
+#look:hover{
+    background-color: rgb(22, 233, 223);
+    color: black;
+}
+
+#blood:hover{
+    background-color: rgb(22, 233, 223);
+    color: black;
+    
+
+}
+
+#contact:hover{
+    background-color: rgb(22, 233, 223);
+    color: black;
+}
+
+#about:hover{
+    background-color: rgb(22, 233, 223);
+    color: black;
+}
+
+
+.search input{
+    width: 500px;
+    height: 20px;
+}
+
+.search button{
+    width: 100px;
+    height: 26px;
+}
+
+.search{
+   
+    display: flex;
+    justify-content: center;
+    padding-right: 50px;
+
+}
+

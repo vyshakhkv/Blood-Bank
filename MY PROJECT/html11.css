@@ -1,0 +1,36 @@
+.aa{
+    background-color: blue;
+    border: 1px solid black;
+    width: 534px;
+    height: 100vh;
+    
+}
+.bb{
+    background-color: rgb(58, 204, 18);
+    border: 1px solid black;
+    width: 534px;
+    height: 100vh;
+    
+
+}
+
+.cc{
+    background-color: brown;
+    border: 1px solid black;
+    width: 534px;
+    height: 100vh;
+    
+    
+}
+
+.HELLO {
+    
+    display: flex; 
+    /* justify-content: space-evenly; */
+    /* align-items: center; */
+
+}
+
+body{
+    margin: none;
+}

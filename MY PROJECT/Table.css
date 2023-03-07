@@ -1,0 +1,44 @@
+.total{
+    background-color: rgb(255, 255, 255);
+}
+
+body{
+    margin: 0px;
+}
+
+.table1{
+    
+    font-size: larger;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+    
+}
+
+table{
+    background-color: rgba(249, 249, 249, 0.968);
+    height: 500px;
+    width: 500px;
+   
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    background-color: rgb(197, 0, 0);
+    padding: 25px;
+    text-align: center;
+}
+
+.first{
+    display: inline;
+    display: flex;
+    align-items: center;
+
+}
+
+input{
+    padding:20px 60px;
+}
